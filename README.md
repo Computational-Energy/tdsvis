@@ -1,4 +1,4 @@
 # tdsvis
 Public examples of TDSVis.
 
-https://computational-energy.github.io/tdsvis/
+https://computational-energy.github.io/tdsvis-documentation/
